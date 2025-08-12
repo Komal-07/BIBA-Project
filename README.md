@@ -9,7 +9,6 @@ By integrating **Salesforce CRM** with **Microsoft Power BI**, we built **predic
 
 --
 
-# SPECIFICATION
 This hypothetical company is facing some challenges in their business like High Cutomer Churn, Lack of personalization, Inconsistent followups, Absence of Strategic Upselling, and Sentiment Analysis Absent.
 
 --

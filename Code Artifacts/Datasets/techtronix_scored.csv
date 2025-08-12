@@ -1,0 +1,501 @@
+CustomerID,Gender,Age,Location,ProductCategory,PurchaseAmount,LastPurchaseDate,IsChurned,SupportTickets,MarketingEngagement,Recency,Cluster,LeadSource,SalesStage,DaysInStage,PurchaseStatus,PurchaseLikelihood
+1,Other,54,Port Tonyland,Security Camera,420.87,18-06-2024,1,3,40,300,2,1,Lead,4,0,0.316186508
+2,Female,33,East Jeremy,Security Camera,419.51,19-11-2024,0,5,43,146,0,3,Qualified,7,0,0
+3,Male,55,Rachelton,Smart Plug,406.99,22-04-2023,0,3,72,723,2,2,Demo,10,0,0
+4,Male,44,Davidburgh,Smart Thermostat,394.43,11-07-2024,1,1,80,277,0,4,Negotiation,9,0,0
+5,Other,42,Greenstad,Smart Light,283.81,24-10-2024,0,5,61,172,0,0,Won,3,1,0.596174603
+6,Other,23,Leachtown,Security Camera,355.89,25-08-2024,0,3,9,232,3,1,Lost,2,0,0
+7,Female,42,Donnaland,Smart Speaker,198.21,21-10-2023,1,2,81,541,1,2,Qualified,6,0,0
+8,Male,18,Lake Kayla,Smart Light,281.36,24-06-2023,1,3,41,660,2,4,Lead,5,0,0.400418831
+9,Male,32,Port Richardport,Smart Plug,395.1,10-05-2024,0,3,7,339,3,0,Demo,13,0,0
+10,Other,27,Weavermouth,Smart Thermostat,237.95,03-09-2024,0,2,19,223,3,3,Negotiation,15,0,0
+11,Other,23,Randallburgh,Wearable,392.98,07-06-2024,0,2,70,311,0,1,Won,4,1,0.61059127
+12,Other,27,East Harold,Smart Speaker,87.24,20-12-2023,1,4,23,481,1,3,Lost,1,0,0
+13,Female,68,Santosland,Smart Thermostat,218.8,19-07-2024,0,2,3,269,3,2,Qualified,9,0,0
+14,Male,44,North Christian,Security Camera,244.96,22-09-2023,0,4,6,570,2,4,Demo,7,0,0
+15,Female,70,North Benjaminbury,Smart Speaker,414.57,28-09-2023,0,5,13,564,2,0,Lead,3,0,0.407134921
+16,Female,26,Baileyview,Security Camera,395.85,11-12-2024,0,2,28,124,3,1,Negotiation,12,0,0.02
+17,Female,47,West Kayla,Smart Speaker,425.14,05-05-2024,1,3,100,344,0,2,Won,6,1,0.714164141
+18,Male,64,Juliemouth,Smart Light,426.08,29-04-2024,0,5,42,350,2,3,Lost,2,0,0
+19,Other,49,Davidsonshire,Smart Light,237.18,02-03-2024,1,2,60,408,1,4,Qualified,10,0,0
+20,Other,61,Lake Brendaport,Smart Thermostat,103.04,10-12-2023,0,4,40,491,1,0,Demo,8,0,0
+21,Female,44,Christopherberg,Security Camera,106.06,30-07-2024,0,1,78,258,0,1,Lead,1,0,0
+22,Female,38,Joshuashire,Smart Light,443.62,18-12-2023,0,1,79,483,2,2,Negotiation,11,0,0
+23,Male,70,Vaughanland,Smart Thermostat,72.32,29-06-2023,1,5,59,655,1,3,Won,5,1,0.83
+24,Female,41,North Brianfort,Smart Speaker,170.87,02-06-2024,1,4,80,316,1,4,Lost,3,0,0
+25,Female,31,New Jasonstad,Smart Speaker,70.09,07-10-2024,0,4,71,189,1,0,Qualified,6,0,0.01
+26,Male,51,East Glenntown,Smart Thermostat,151.92,19-02-2024,0,1,56,420,1,1,Demo,9,0,0
+27,Female,54,Jennastad,Smart Light,398.05,27-03-2025,0,1,51,18,0,2,Lead,2,0,0.01
+28,Female,68,Lake Paulaview,Security Camera,468.95,18-02-2025,1,3,2,55,3,3,Negotiation,14,0,0
+29,Male,42,Davidview,Wearable,376.66,25-07-2024,0,3,83,263,0,4,Won,4,1,0.747304654
+30,Other,29,Pattonport,Smart Light,97.71,25-02-2025,1,5,8,48,3,0,Lost,1,0,0.004666667
+31,Other,46,North Jonathan,Smart Plug,415.23,11-04-2024,1,4,55,368,2,1,Qualified,8,0,0
+32,Male,64,New James,Security Camera,95.93,28-02-2024,1,0,75,411,1,2,Demo,10,0,0
+33,Female,47,Suzannestad,Smart Plug,374.63,18-10-2023,1,0,8,544,2,3,Lead,4,0,0.052
+34,Male,30,Boyerfurt,Security Camera,44.79,08-05-2024,0,5,28,341,1,4,Negotiation,13,0,0
+35,Male,19,Vincentside,Smart Speaker,130.8,27-01-2025,1,2,5,77,3,0,Won,3,1,0.385392302
+36,Female,65,Micheleside,Smart Light,173.03,23-08-2023,0,1,0,600,3,1,Lost,2,0,0
+37,Female,30,Huntchester,Smart Light,37.3,16-01-2025,1,4,34,88,3,2,Qualified,7,0,0
+38,Other,45,Jennifermouth,Smart Light,266.44,24-01-2025,1,1,91,80,0,4,Lead,5,0,0.41528985
+39,Female,62,Randallville,Smart Thermostat,31.39,02-09-2024,1,3,95,224,1,0,Demo,11,0,0
+40,Other,63,Fullerton,Smart Speaker,137.97,28-10-2023,0,0,89,534,1,3,Negotiation,15,0,0.01
+41,Female,40,Lake Gregoryfurt,Smart Thermostat,213.08,14-11-2024,0,2,50,151,3,1,Won,4,1,0.797523088
+42,Male,50,East Terryland,Smart Light,348.27,22-12-2024,1,2,17,113,3,3,Lost,2,0,0
+43,Female,70,New Paul,Security Camera,99.63,01-04-2024,1,2,98,378,1,2,Qualified,6,0,0
+44,Other,51,West Holly,Smart Speaker,400.49,19-08-2023,1,2,72,604,2,4,Demo,12,0,0
+45,Female,60,East Juan,Smart Thermostat,224.65,14-12-2023,1,4,24,487,1,0,Lead,3,0,0.225632395
+46,Other,34,East Johnbury,Smart Light,54.7,14-10-2023,0,5,14,548,1,1,Negotiation,9,0,0
+47,Other,36,Deannabury,Smart Plug,192.01,22-04-2024,0,2,56,357,1,2,Won,5,1,0.468928571
+48,Female,61,Jenniferview,Smart Speaker,359.54,20-08-2024,0,4,35,237,3,3,Lost,1,0,0
+49,Female,23,East Derrickburgh,Smart Plug,266.53,26-02-2025,0,2,71,47,0,4,Qualified,10,0,0
+50,Other,48,East Patrick,Wearable,66.5,25-01-2025,1,0,88,79,0,0,Demo,7,0,0.02
+51,Other,26,West Courtney,Smart Plug,426.11,31-08-2024,0,5,46,226,0,1,Lead,2,0,0
+52,Other,19,Port Karenville,Wearable,128.05,13-02-2024,0,5,14,426,1,2,Negotiation,13,0,0
+53,Male,34,Jesseview,Security Camera,475.92,22-06-2024,0,3,55,296,2,3,Won,6,1,0.99
+54,Male,44,Lake Christopher,Wearable,317.33,07-01-2024,1,0,9,463,3,4,Lost,1,0,0.03
+55,Male,21,Pamelahaven,Smart Speaker,162.17,16-09-2023,1,5,68,576,1,0,Qualified,8,0,0
+56,Female,58,West Charlotteland,Smart Plug,354.51,01-02-2024,1,0,32,438,2,1,Demo,9,0,0
+57,Other,27,Vazquezbury,Smart Thermostat,174.17,01-11-2024,0,4,74,164,0,2,Lead,4,0,0.064833333
+58,Female,39,Clarkmouth,Smart Light,448.82,06-11-2023,1,5,96,525,2,3,Negotiation,14,0,0
+59,Male,40,Youngview,Wearable,289.22,24-01-2025,0,0,62,80,0,4,Won,5,1,0.41528985
+60,Other,55,Harrisshire,Smart Speaker,277.03,31-08-2023,0,4,87,592,1,0,Lost,3,0,0.225632395
+61,Other,43,West Harryton,Smart Plug,467.98,22-10-2023,1,5,22,540,2,1,Qualified,7,0,0
+62,Male,67,East Catherinemouth,Smart Light,460.18,11-10-2024,1,4,5,185,3,2,Demo,11,0,0
+63,Other,58,Aprilmouth,Security Camera,289.29,03-04-2025,1,5,86,11,0,3,Lead,3,0,0
+64,Female,37,Graystad,Smart Speaker,116.52,10-08-2024,1,0,16,247,3,4,Negotiation,12,0,0
+65,Other,20,South Derek,Security Camera,455.75,04-02-2025,0,1,18,69,3,0,Won,4,1,1
+66,Female,36,South Jorgefort,Smart Light,292.32,06-10-2023,0,1,6,556,2,1,Lost,2,0,0
+67,Male,26,East Bryanfort,Smart Speaker,487.56,21-04-2023,1,5,99,724,2,2,Qualified,9,0,0
+68,Male,53,Lake Thomas,Smart Light,460.67,09-06-2024,0,4,29,309,2,4,Lead,1,0,0
+69,Male,23,South Amandaton,Smart Speaker,57.52,25-06-2023,0,5,14,659,1,0,Demo,10,0,0
+70,Female,18,Ginamouth,Smart Light,469.78,28-07-2023,1,5,64,626,2,3,Negotiation,15,0,0
+71,Female,20,Jeremyside,Wearable,455.32,08-12-2024,1,4,65,127,0,1,Won,5,1,0.797285714
+72,Female,29,Port Michael,Smart Plug,49.76,20-02-2025,0,5,85,53,0,3,Lost,1,0,0
+73,Female,47,Nicoleland,Smart Light,423.85,10-07-2023,0,2,86,644,2,2,Qualified,8,0,0
+74,Female,67,West Jennifer,Wearable,499.19,15-02-2024,0,2,39,424,2,4,Demo,7,0,0
+75,Male,58,Nicolestad,Smart Light,230.95,06-08-2024,0,3,42,251,3,0,Lead,2,0,0.004666667
+76,Other,60,South Dennis,Smart Thermostat,389.12,30-08-2024,0,4,59,227,0,1,Negotiation,14,0,0
+77,Other,53,North Christopher,Smart Thermostat,195.82,10-01-2025,1,0,46,94,3,2,Won,3,1,0.678904762
+78,Male,23,Beasleymouth,Smart Plug,66.92,06-02-2024,0,1,81,433,1,3,Lost,2,0,0
+79,Other,66,East Kimtown,Wearable,108.17,16-07-2023,0,1,46,638,1,4,Qualified,6,0,0.387878788
+80,Female,45,Port Penny,Smart Thermostat,421.4,20-05-2023,0,5,63,695,2,0,Demo,9,0,0
+81,Male,38,Lake Jeffreybury,Smart Light,459.32,09-04-2025,1,4,50,5,0,1,Lead,4,0,0.61059127
+82,Female,69,New Jennifershire,Smart Speaker,470.53,21-07-2023,0,2,2,633,2,2,Negotiation,12,0,0
+83,Female,62,North Raymondchester,Smart Plug,127.35,16-12-2024,1,3,82,119,0,3,Won,6,1,0.921515152
+84,Male,43,Davidmouth,Wearable,490.12,02-05-2024,1,5,45,347,2,4,Lost,1,0,0
+85,Male,26,Woodstown,Smart Light,252.57,08-12-2023,0,5,15,493,1,0,Qualified,7,0,0
+86,Other,22,West Kyleport,Wearable,267.26,02-11-2023,1,2,48,529,2,1,Demo,11,0,0
+87,Female,51,East Dannymouth,Smart Light,177.58,17-01-2024,0,1,26,453,3,2,Lead,3,0,0.678904762
+88,Female,40,Port Brendamouth,Security Camera,100.18,13-11-2024,1,5,57,152,1,3,Negotiation,10,0,0.07
+89,Other,64,Davidfurt,Smart Speaker,264.2,04-03-2025,1,4,59,41,0,4,Won,5,1,0.41528985
+90,Male,65,Chrismouth,Smart Thermostat,170.27,27-01-2025,1,0,25,77,3,0,Lost,2,0,0.004666667
+91,Female,69,West Michelleport,Smart Speaker,449.14,07-01-2024,1,4,48,463,2,1,Qualified,9,0,0
+92,Other,24,Stephenberg,Wearable,210.11,31-12-2024,0,4,74,104,0,2,Demo,13,0,0
+93,Female,38,East Laura,Security Camera,51.11,29-04-2024,1,1,20,350,3,3,Lead,2,0,0
+94,Other,46,Williamsonport,Wearable,54.44,30-08-2023,1,5,92,593,1,4,Negotiation,12,0,0
+95,Other,58,Brianville,Wearable,177.85,07-07-2024,1,2,30,281,3,0,Won,4,1,1
+96,Other,69,East Misty,Wearable,162.91,23-08-2024,1,5,36,234,1,1,Lead,4,0,0.272496032
+97,Female,64,Port Rebeccamouth,Smart Thermostat,383.26,20-07-2024,0,4,48,268,0,3,Qualified,7,0,0
+98,Female,51,Lambstad,Smart Plug,57.57,26-11-2023,0,1,38,505,1,2,Demo,10,0,0
+99,Male,70,Torresberg,Wearable,295.18,25-10-2024,1,3,99,171,0,4,Negotiation,9,0,0
+100,Male,70,Caitlynport,Smart Light,221.31,16-07-2024,0,0,35,272,3,0,Won,3,1,0.385392302
+101,Male,54,Danielside,Security Camera,326.63,03-08-2023,0,5,40,620,2,1,Lost,2,0,0
+102,Male,25,Nathanborough,Smart Light,321.06,01-06-2024,1,2,21,317,3,2,Qualified,6,0,0.0525
+103,Other,31,Sallyview,Smart Plug,360.92,03-02-2025,1,2,66,70,0,4,Lead,5,0,0.41528985
+104,Male,50,Juliemouth,Smart Thermostat,62.44,08-10-2024,1,1,61,188,3,0,Demo,13,0,0
+105,Other,25,Erichaven,Smart Thermostat,329.71,16-03-2025,1,5,6,29,3,3,Negotiation,15,0,0
+106,Other,65,North Seanberg,Wearable,81.21,28-09-2024,1,5,9,198,3,1,Won,4,1,0.797523088
+107,Other,23,Williamsmouth,Security Camera,235.47,05-09-2024,0,0,66,221,0,3,Lost,1,0,0
+108,Other,58,North Tina,Smart Speaker,255.39,01-01-2025,0,5,60,103,0,2,Qualified,9,0,0
+109,Male,70,Williamsfurt,Wearable,43.67,16-06-2024,0,0,40,302,3,4,Demo,7,0,0
+110,Other,64,Spencerside,Smart Light,239.67,17-06-2024,0,5,85,301,0,0,Lead,3,0,0.596174603
+111,Female,43,North Lance,Security Camera,255.89,10-07-2023,0,3,57,644,1,1,Negotiation,12,0,0
+112,Male,20,Patelview,Smart Plug,220.55,21-10-2024,0,2,95,175,0,2,Won,6,1,0.714164141
+113,Other,52,Summersstad,Wearable,118.02,26-09-2023,1,2,57,566,1,3,Lost,2,0,0
+114,Other,23,South Christineview,Smart Plug,277.2,13-01-2024,1,5,69,457,1,4,Qualified,10,0,0
+115,Male,49,Hesterborough,Smart Plug,127.7,23-02-2025,1,0,38,50,3,0,Demo,8,0,0
+116,Other,26,Brooksview,Smart Speaker,471.09,21-05-2024,1,2,7,328,2,1,Lead,1,0,0
+117,Other,55,Masonmouth,Smart Speaker,454.8,06-05-2024,1,5,17,343,2,2,Negotiation,11,0,0
+118,Female,56,Cruztown,Smart Plug,35.82,12-06-2024,1,0,10,306,3,3,Won,5,1,0.797166667
+119,Other,49,Tapiaside,Security Camera,98.56,23-05-2023,0,0,98,692,1,4,Lost,3,0,0
+120,Male,24,Brennanburgh,Smart Speaker,108.89,21-09-2024,1,2,15,205,3,0,Qualified,6,0,0.13
+121,Other,35,Danielmouth,Smart Thermostat,261.6,27-01-2024,1,3,51,443,1,1,Demo,9,0,0
+122,Female,20,Lake Morganchester,Smart Thermostat,103.45,03-01-2024,0,0,88,467,1,2,Lead,2,0,0.018666667
+123,Male,36,Woodsmouth,Smart Speaker,496.67,18-02-2025,0,3,54,55,0,3,Negotiation,14,0,0
+124,Other,42,Gregoryhaven,Wearable,383.42,09-09-2023,1,0,58,583,2,4,Won,4,1,0.764369048
+125,Female,39,Cookville,Smart Thermostat,316.22,11-12-2023,1,5,53,490,1,0,Lost,1,0,0.013166667
+126,Other,57,Evansbury,Smart Plug,485.22,04-06-2023,1,3,68,680,2,1,Qualified,8,0,0
+127,Female,18,East Jeanneview,Smart Plug,155.52,27-01-2025,1,4,23,77,3,2,Demo,10,0,0
+128,Male,45,East Richardstad,Smart Speaker,61,23-12-2023,0,3,86,478,1,3,Lead,4,0,0.191666667
+129,Other,45,Lake Ryan,Smart Speaker,201.03,19-10-2023,1,4,28,543,1,4,Negotiation,13,0,0
+130,Male,65,Walltown,Smart Plug,306.08,11-10-2023,0,3,2,551,2,0,Won,3,1,0.407134921
+131,Other,41,North Steve,Smart Plug,369.75,29-11-2023,0,4,37,502,2,1,Lost,2,0,0
+132,Female,66,Heathermouth,Smart Plug,144.68,08-12-2024,0,2,71,127,0,2,Qualified,7,0,0.108746032
+133,Male,69,Patrickport,Smart Light,224.6,26-03-2024,1,4,51,384,1,4,Lead,5,0,0.424868631
+134,Male,56,Port David,Smart Light,452.2,21-01-2024,0,1,79,449,2,0,Demo,11,0,0
+135,Male,66,Ballville,Smart Light,97.9,11-07-2024,0,1,32,277,3,3,Negotiation,15,0,0
+136,Other,30,Valdezburgh,Smart Plug,143.61,04-11-2024,0,4,13,161,3,1,Won,4,1,0.797523088
+137,Male,38,Nancyfort,Wearable,75.1,25-10-2024,0,3,2,171,3,3,Lost,2,0,0
+138,Other,28,North Kevinburgh,Wearable,342.71,25-09-2024,0,5,13,201,3,2,Qualified,6,0,0.0525
+139,Other,22,South Joseph,Smart Plug,314.25,27-12-2023,1,1,99,474,0,4,Demo,12,0,0
+140,Other,21,East Lawrenceberg,Security Camera,426.17,02-03-2024,0,3,15,408,2,0,Lead,3,0,0.407134921
+141,Female,65,East Aaronland,Smart Thermostat,125.28,01-08-2023,0,5,32,622,1,1,Negotiation,9,0,0
+142,Female,66,North Jason,Smart Speaker,476.88,10-09-2024,1,0,77,216,0,2,Won,5,1,0.926904762
+143,Other,20,East Jasmine,Smart Thermostat,465.72,11-09-2024,1,5,79,215,0,3,Lost,1,0,0
+144,Female,54,Davidside,Wearable,452.84,20-12-2024,1,0,9,115,3,4,Qualified,10,0,0
+145,Male,49,North Samuelview,Smart Thermostat,323.28,08-04-2024,1,4,10,371,3,0,Demo,7,0,0
+146,Other,20,Andrewville,Security Camera,123.49,06-05-2023,1,5,95,709,1,1,Lead,2,0,0
+147,Female,33,East Andrew,Security Camera,209.58,23-07-2023,0,1,53,631,1,2,Negotiation,13,0,0
+148,Other,46,Jenniferview,Smart Thermostat,424.16,18-02-2025,1,5,53,55,0,3,Won,6,1,0.921515152
+149,Male,32,Cassieton,Smart Thermostat,424.17,24-10-2023,1,1,86,538,2,4,Lost,1,0,0
+150,Female,36,Turnerstad,Smart Thermostat,249.36,13-10-2023,1,5,93,549,1,0,Qualified,8,0,0
+151,Other,43,Smithview,Smart Plug,233.08,16-09-2024,0,4,71,210,0,1,Demo,9,0,0
+152,Male,23,South Carlosfort,Smart Plug,316.12,06-12-2023,0,0,4,495,3,2,Lead,4,0,0.242848485
+153,Female,49,Cooperfurt,Security Camera,387.45,31-12-2024,0,1,28,104,3,3,Negotiation,14,0,0
+154,Female,30,West Jamesmouth,Wearable,455.23,25-05-2023,1,0,38,690,2,4,Won,5,1,0.400418831
+155,Female,30,East Jacqueline,Wearable,258.38,15-03-2024,1,0,0,395,3,0,Lost,3,0,0.385392302
+156,Female,30,New Matthew,Smart Plug,152.13,16-09-2023,1,0,88,576,1,1,Qualified,7,0,0.06
+157,Male,36,Michaeltown,Smart Light,128.91,03-10-2024,0,4,8,193,3,2,Demo,11,0,0
+158,Male,51,Lindsayberg,Security Camera,92.99,19-09-2024,1,2,91,207,0,3,Lead,3,0,0
+159,Male,20,Nguyenmouth,Smart Speaker,263.21,06-08-2024,0,4,64,251,0,4,Negotiation,12,0,0
+160,Other,62,New Jason,Smart Plug,479.53,01-02-2025,0,2,49,72,0,0,Won,4,1,0.974416667
+161,Female,69,South Denise,Smart Thermostat,116.86,14-02-2025,1,0,88,59,0,1,Lost,2,0,0
+162,Male,27,Lake Briannaton,Smart Speaker,327.23,14-06-2024,1,3,20,304,3,2,Qualified,9,0,0
+163,Other,70,Port Darius,Smart Plug,278.13,25-02-2025,1,4,64,48,0,4,Lead,1,0,0
+164,Male,59,South Jamesshire,Smart Thermostat,314.53,30-11-2023,1,4,8,501,2,0,Demo,10,0,0
+165,Female,37,North Craigland,Wearable,39.94,25-11-2023,1,3,44,506,1,3,Negotiation,15,0,0.01
+166,Male,65,Lake Lawrence,Smart Thermostat,162.21,21-08-2023,0,0,41,602,1,1,Won,5,1,0.826984127
+167,Other,28,New Matthew,Smart Speaker,402.06,21-08-2024,0,1,85,236,0,3,Lost,1,0,0
+168,Female,29,Lake Jorge,Security Camera,479.45,12-01-2025,0,3,62,92,0,2,Qualified,8,0,0
+169,Female,66,Bryantmouth,Smart Plug,391.51,13-08-2023,0,0,39,610,2,4,Demo,7,0,0
+170,Female,24,Meganfort,Wearable,164.21,18-12-2023,0,3,84,483,1,0,Lead,2,0,0.013166667
+171,Male,28,New Scott,Smart Speaker,336.95,15-07-2024,1,2,10,273,3,1,Negotiation,14,0,0.02
+172,Female,40,Mosleyfort,Smart Plug,340.15,25-04-2023,1,2,78,720,2,2,Won,3,1,0.277119048
+173,Male,27,Shawfort,Wearable,165.57,08-05-2024,1,3,33,341,3,3,Lost,2,0,0
+174,Male,37,Harmonmouth,Smart Light,393.54,02-07-2024,0,0,97,286,0,4,Qualified,6,0,0.233163287
+175,Other,54,Lake Eric,Security Camera,455.2,13-08-2024,1,0,87,244,0,0,Demo,9,0,0
+176,Female,53,Alanshire,Smart Speaker,290.46,10-01-2024,0,2,89,460,0,1,Lead,4,0,0.61059127
+177,Other,24,Stevenfurt,Smart Thermostat,200.41,19-02-2025,1,3,73,54,0,2,Negotiation,12,0,0
+178,Female,29,New Sean,Wearable,277.5,07-05-2023,0,5,86,708,1,3,Won,6,1,0.85
+179,Female,66,North Dantown,Security Camera,241.87,21-06-2024,0,3,20,297,3,4,Lost,1,0,0.03
+180,Other,34,Riceton,Smart Plug,430.22,13-02-2024,0,0,96,426,0,0,Qualified,7,0,0.02
+181,Other,49,Stevenborough,Security Camera,251.65,17-02-2025,1,4,25,56,3,1,Demo,11,0,0.02
+182,Male,68,East Jamesmouth,Smart Plug,464.29,05-05-2023,1,0,33,710,2,2,Lead,3,0,0.277119048
+183,Other,21,Raymondmouth,Smart Plug,243.46,10-08-2024,1,5,43,247,1,3,Negotiation,10,0,0.07
+184,Female,22,West Carlosshire,Smart Light,62.15,18-08-2024,1,1,29,239,3,4,Won,5,1,0.5945
+185,Male,23,North Amanda,Smart Plug,351.29,06-03-2024,1,2,71,404,0,0,Lost,2,0,0.016666667
+186,Female,59,Port Andrewstad,Wearable,441.77,25-03-2025,1,0,62,20,0,1,Qualified,9,0,0
+187,Female,36,Ramosberg,Wearable,381.38,15-10-2024,1,2,54,181,0,2,Demo,13,0,0
+188,Male,51,Janiceberg,Smart Thermostat,353.04,12-08-2023,1,0,96,611,2,3,Lead,2,0,0
+189,Female,38,East Deborahland,Smart Light,33.13,22-07-2023,1,5,33,632,1,4,Negotiation,12,0,0
+190,Female,34,Lake Leslieton,Security Camera,234.03,16-05-2023,1,4,21,699,1,0,Won,4,1,0.983636364
+191,Male,46,North Brianburgh,Smart Thermostat,429.22,23-11-2023,1,3,34,508,2,1,Lead,4,0,0.316186508
+192,Male,33,Bradleymouth,Smart Speaker,310.54,13-12-2023,0,3,54,488,2,3,Qualified,7,0,0.01
+193,Other,22,Lake Nicole,Smart Speaker,201.85,05-06-2024,1,1,0,313,3,2,Demo,10,0,0
+194,Male,22,East Bryanton,Smart Plug,478.32,28-02-2024,1,1,95,411,0,4,Negotiation,9,0,0
+195,Female,41,Hillside,Smart Speaker,318.44,14-09-2023,0,1,93,578,2,0,Won,3,1,0.407134921
+196,Other,48,West Laurieberg,Wearable,306.16,15-09-2024,1,4,49,211,0,1,Lost,2,0,0
+197,Other,24,Carlhaven,Smart Thermostat,77.54,25-02-2024,1,5,45,414,1,2,Qualified,6,0,0
+198,Female,53,North Michaelberg,Wearable,344.1,20-04-2023,0,4,7,725,2,4,Lead,5,0,0.400418831
+199,Male,42,North Benjaminside,Smart Light,391.69,07-03-2025,1,1,66,38,0,0,Demo,13,0,0
+200,Other,40,East Margaret,Smart Speaker,31.12,29-05-2023,0,5,73,686,1,3,Negotiation,15,0,0.01
+201,Male,19,South Kimberly,Wearable,200.19,12-02-2024,1,2,80,427,1,1,Won,4,1,0.272496032
+202,Other,53,Jesusberg,Smart Plug,43.63,17-04-2024,1,0,9,362,3,3,Lost,1,0,0
+203,Other,61,South Feliciabury,Smart Light,102.27,25-04-2023,1,3,51,720,1,2,Qualified,9,0,0
+204,Female,69,North Dwayne,Smart Thermostat,216.89,10-07-2023,0,3,72,644,1,4,Demo,7,0,0
+205,Other,25,Justinchester,Security Camera,304.2,25-06-2023,1,5,24,659,2,0,Lead,3,0,0.407134921
+206,Other,24,Beverlymouth,Smart Light,179.57,06-10-2023,1,2,67,556,1,1,Negotiation,12,0,0
+207,Female,66,Lake Bonnie,Smart Speaker,371.7,08-12-2024,1,2,66,127,0,2,Won,6,1,0.714164141
+208,Other,70,South Jessica,Smart Thermostat,420.19,04-09-2024,1,3,70,222,0,3,Lost,2,0,0
+209,Other,69,East Kaitlyn,Smart Plug,126.66,16-09-2023,0,0,37,576,1,4,Qualified,10,0,0
+210,Male,48,West Stephanieberg,Smart Plug,67.93,07-11-2023,1,3,89,524,1,0,Demo,8,0,0
+211,Female,62,Danachester,Wearable,150.89,30-04-2024,0,1,66,349,1,1,Lead,1,0,0
+212,Other,60,Brittanyfort,Wearable,455.8,08-12-2023,1,0,57,493,2,2,Negotiation,11,0,0
+213,Male,63,Michaelfurt,Smart Speaker,220.79,12-06-2023,1,3,100,672,1,3,Won,5,1,0.83
+214,Other,43,East Jeffreyborough,Wearable,328.84,11-11-2023,0,0,75,520,2,4,Lost,3,0,0.01
+215,Female,18,New Nicholeport,Security Camera,253.9,27-08-2023,1,5,40,596,1,0,Qualified,6,0,0.01
+216,Other,28,East Laurenside,Smart Plug,392.64,19-03-2024,0,2,18,391,2,1,Demo,9,0,0
+217,Male,52,South Richard,Wearable,134.32,18-11-2024,1,0,4,147,3,2,Lead,2,0,0.095
+218,Female,26,Anneburgh,Smart Speaker,381.24,23-10-2024,1,2,5,173,3,3,Negotiation,14,0,0
+219,Other,23,East Courtneyburgh,Smart Speaker,491.09,26-02-2025,1,2,14,47,3,4,Won,4,1,0.950833333
+220,Female,57,South Susan,Smart Speaker,86.61,19-12-2023,0,5,29,482,1,0,Lost,1,0,0.013166667
+221,Other,28,Burnstown,Wearable,268.95,19-01-2025,1,4,36,85,3,1,Qualified,8,0,0.1
+222,Other,18,South Mackenzie,Smart Speaker,61.82,31-12-2023,0,3,91,470,1,2,Demo,10,0,0
+223,Other,60,New Kenneth,Wearable,58,16-12-2024,0,5,17,119,3,3,Lead,4,0,0.210142857
+224,Female,59,Lake Michael,Smart Speaker,150,14-02-2024,1,1,47,425,1,4,Negotiation,13,0,0
+225,Female,60,Harrisville,Security Camera,115.89,03-12-2023,1,4,77,498,1,0,Won,3,1,0.225632395
+226,Female,46,Port Jasmine,Smart Light,30.63,11-10-2024,0,3,11,185,3,1,Lost,2,0,0
+227,Female,42,Port Robertoside,Smart Thermostat,432.98,29-06-2023,1,0,65,655,2,2,Qualified,7,0,0.038
+228,Male,65,Andersonberg,Smart Light,274.35,31-01-2024,0,0,93,439,0,4,Lead,5,0,0.41528985
+229,Female,69,Fostermouth,Wearable,366.19,22-04-2023,0,1,59,723,2,0,Demo,11,0,0
+230,Female,62,East Angelamouth,Security Camera,272.84,04-12-2023,0,3,17,497,2,3,Negotiation,15,0,0
+231,Other,50,Shelleytown,Smart Plug,372.21,12-04-2024,0,3,83,367,0,1,Won,4,1,0.61059127
+232,Male,49,Lake William,Smart Plug,77.04,07-12-2024,1,1,56,128,3,3,Lost,2,0,0
+233,Male,51,South George,Smart Thermostat,42.97,10-04-2025,0,0,84,4,0,2,Qualified,6,0,0.714164141
+234,Other,67,Lake Johnberg,Smart Speaker,436.43,17-04-2023,0,3,51,728,2,4,Demo,12,0,0
+235,Other,65,Kristopherville,Smart Thermostat,187.4,08-03-2024,0,4,12,402,3,0,Lead,3,0,0.385392302
+236,Other,28,Lambborough,Smart Speaker,321.67,21-05-2024,0,2,84,328,0,1,Negotiation,9,0,0
+237,Female,63,Perezmouth,Smart Plug,277.73,30-06-2024,1,3,77,288,0,2,Won,5,1,0.926904762
+238,Female,58,Woodside,Smart Light,482.18,07-01-2025,0,3,64,97,0,3,Lost,1,0,0
+239,Other,24,New Jo,Security Camera,91.94,22-05-2023,1,2,59,693,1,4,Qualified,10,0,0
+240,Female,38,North Jameshaven,Wearable,223.33,20-10-2023,0,3,1,542,3,0,Demo,7,0,0
+241,Female,43,Ronaldtown,Smart Plug,451.73,09-09-2024,1,3,86,217,0,1,Lead,2,0,0
+242,Female,28,Port Matthewbury,Smart Light,79.61,05-11-2023,0,5,84,526,1,2,Negotiation,13,0,0
+243,Male,29,North Amy,Security Camera,459.86,02-06-2023,1,1,25,682,2,3,Won,6,1,0.99
+244,Other,23,Elizabethview,Smart Plug,426.02,11-03-2024,1,5,85,399,0,4,Lost,1,0,0
+245,Male,39,North Matthew,Smart Speaker,442.71,25-04-2024,1,4,94,354,0,0,Qualified,8,0,0
+246,Female,34,Lake Paulfort,Smart Thermostat,237.16,29-11-2024,1,4,44,136,0,1,Demo,9,0,0
+247,Male,62,Port Albert,Smart Plug,294.02,08-10-2024,1,5,40,188,0,2,Lead,4,0,0.064833333
+248,Female,31,North Donaldland,Smart Thermostat,243.47,13-02-2025,0,2,12,60,3,3,Negotiation,14,0,0
+249,Male,68,Larsenland,Smart Speaker,242.37,06-12-2024,1,2,83,129,0,4,Won,5,1,0.41528985
+250,Female,60,Michaelton,Smart Plug,141.11,27-08-2023,1,4,14,596,1,0,Lost,3,0,0.225632395
+251,Other,63,Walkermouth,Smart Plug,350.25,24-08-2023,0,4,60,599,2,1,Qualified,7,0,0
+252,Male,60,Boyleshire,Smart Speaker,294.67,12-04-2025,0,2,91,2,0,2,Demo,11,0,0
+253,Other,43,Kristaland,Security Camera,331.48,11-01-2025,0,2,74,93,0,3,Lead,3,0,0
+254,Female,29,West Amy,Smart Thermostat,76.32,09-12-2023,1,4,25,492,1,4,Negotiation,12,0,0
+255,Other,36,East Monique,Wearable,321.92,10-11-2024,0,5,5,155,3,0,Won,4,1,1
+256,Female,23,Joshuahaven,Smart Light,130.44,19-09-2023,1,1,43,573,1,1,Lost,2,0,0
+257,Female,63,Ianbury,Smart Speaker,276.57,26-11-2023,0,5,91,505,1,2,Qualified,9,0,0
+258,Other,28,New Tammyview,Smart Plug,136.2,22-07-2024,0,3,61,266,1,4,Lead,1,0,0
+259,Female,69,Teresaburgh,Smart Light,418.77,06-10-2023,1,1,98,556,2,0,Demo,10,0,0
+260,Other,33,Katelynville,Security Camera,439.63,16-12-2024,1,3,26,119,3,3,Negotiation,15,0,0
+261,Other,27,Wiseton,Security Camera,202.15,24-05-2024,0,3,9,325,3,1,Won,5,1,0.937872294
+262,Male,68,Moorefort,Smart Thermostat,187.67,08-06-2024,1,1,40,310,3,3,Lost,1,0,0
+263,Other,21,Bestside,Smart Plug,136.61,16-09-2023,0,3,55,576,1,2,Qualified,8,0,0
+264,Other,48,Kelseytown,Security Camera,306.45,30-06-2023,1,0,71,654,2,4,Demo,7,0,0
+265,Other,29,New Lindsayport,Smart Light,374.56,23-11-2024,0,2,81,142,0,0,Lead,2,0,0.016666667
+266,Male,28,Wolfefort,Smart Plug,380.47,07-06-2023,0,1,74,677,2,1,Negotiation,14,0,0
+267,Other,28,Spencershire,Wearable,289.95,30-03-2025,0,3,22,15,3,2,Won,3,1,0.678904762
+268,Other,40,West Amanda,Security Camera,462.82,15-01-2025,0,1,64,89,0,3,Lost,2,0,0
+269,Other,54,Erikabury,Security Camera,312.99,03-09-2024,0,2,5,223,3,4,Qualified,6,0,0.204166667
+270,Female,64,Thomasview,Security Camera,79.07,22-10-2024,1,1,1,174,3,0,Demo,9,0,0
+271,Other,60,Port Jamesbury,Security Camera,126.6,18-07-2023,1,1,43,636,1,1,Lead,4,0,0.272496032
+272,Female,27,Port Alexisbury,Wearable,427.99,09-08-2023,1,2,72,614,2,2,Negotiation,12,0,0
+273,Male,21,Bruceside,Smart Speaker,268.82,13-07-2024,0,2,68,275,0,3,Won,6,1,0.921515152
+274,Other,62,Montgomerybury,Wearable,293.14,04-11-2023,0,3,39,527,2,4,Lost,1,0,0
+275,Other,69,Markburgh,Smart Thermostat,475.76,06-10-2023,0,5,91,556,2,0,Qualified,7,0,0
+276,Other,27,South Davidfort,Smart Thermostat,414.54,14-04-2023,0,4,66,731,2,1,Demo,11,0,0
+277,Other,45,Johnton,Smart Speaker,232.18,10-06-2023,1,0,49,674,2,2,Lead,3,0,0.277119048
+278,Other,48,Rojaschester,Smart Thermostat,212.04,09-09-2023,1,2,32,583,1,3,Negotiation,10,0,0.07
+279,Other,45,Tammyland,Security Camera,362.64,03-04-2024,0,5,30,376,2,4,Won,5,1,0.400418831
+280,Female,57,North Jamesfurt,Security Camera,314.09,27-12-2024,0,2,63,108,0,0,Lost,2,0,0.016666667
+281,Male,57,Angelachester,Security Camera,215.27,11-10-2023,0,5,43,551,1,1,Qualified,9,0,0
+282,Male,28,New Rachelville,Smart Light,174.09,26-06-2024,0,0,16,292,3,2,Demo,13,0,0
+283,Male,48,Kennethborough,Smart Plug,71.19,08-08-2023,0,3,67,615,1,3,Lead,2,0,0
+284,Female,55,West Josephbury,Smart Speaker,347.33,20-07-2023,1,3,54,634,2,4,Negotiation,12,0,0
+285,Female,31,Port Shelbyview,Smart Thermostat,116.28,31-10-2023,0,5,20,531,1,0,Won,4,1,0.983636364
+286,Female,57,New Peterfort,Smart Light,453.66,15-09-2023,1,4,45,577,2,1,Lead,4,0,0.316186508
+287,Male,54,Lake Lisachester,Wearable,412.44,09-10-2024,1,1,90,187,0,3,Qualified,7,0,0
+288,Other,51,New Elaine,Smart Thermostat,337.62,04-11-2024,0,5,54,161,0,2,Demo,10,0,0
+289,Other,58,Danielshire,Smart Speaker,66.9,23-07-2024,0,5,68,265,1,4,Negotiation,9,0,0
+290,Other,38,Lake Lisa,Security Camera,439.52,21-01-2024,0,3,33,449,2,0,Won,3,1,0.407134921
+291,Male,69,Sandratown,Smart Plug,260.07,29-08-2023,0,0,55,594,2,1,Lost,2,0,0
+292,Male,42,Mitchellfort,Wearable,129.6,04-08-2023,1,1,45,619,1,2,Qualified,6,0,0
+293,Female,69,Lake Thomas,Wearable,31.52,06-11-2023,1,1,2,525,3,4,Lead,5,0,0.5945
+294,Female,64,Amberport,Smart Plug,164.93,12-07-2024,1,1,85,276,0,0,Demo,13,0,0
+295,Female,52,Paulville,Wearable,159.53,11-01-2024,0,4,43,459,1,3,Negotiation,15,0,0.01
+296,Male,31,Port Suzannechester,Smart Light,63.78,06-02-2024,1,1,22,433,3,1,Won,4,1,0.797523088
+297,Other,44,Stephaniefort,Smart Plug,199.19,04-02-2025,0,0,29,69,3,3,Lost,1,0,0
+298,Female,29,East Michaelville,Smart Thermostat,269.39,24-07-2023,1,4,7,630,2,2,Qualified,9,0,0
+299,Other,32,West Jack,Wearable,425.61,26-06-2023,1,1,28,658,2,4,Demo,7,0,0
+300,Other,46,Jaimeborough,Smart Thermostat,182.42,09-04-2025,1,5,23,5,3,0,Lead,3,0,0.385392302
+301,Female,36,South Jacob,Smart Thermostat,439.17,18-11-2023,1,0,0,513,2,1,Negotiation,12,0,0
+302,Female,33,Gomezchester,Smart Thermostat,298.5,07-05-2023,1,0,12,708,2,2,Won,6,1,0.549904762
+303,Male,23,Johnsonhaven,Smart Speaker,348.68,29-10-2024,0,3,18,167,3,3,Lost,2,0,0
+304,Female,60,Port Williamstad,Smart Thermostat,298.09,30-03-2024,0,1,86,380,0,4,Qualified,10,0,0
+305,Male,60,Jacksonstad,Smart Plug,205.86,20-08-2024,1,3,18,237,3,0,Demo,8,0,0
+306,Female,47,North Robertside,Smart Light,108.48,10-10-2023,1,5,74,552,1,1,Lead,1,0,0
+307,Male,49,East Emmaville,Security Camera,487.53,17-07-2023,0,2,41,637,2,2,Negotiation,11,0,0
+308,Male,33,North Kennethview,Smart Thermostat,371.25,09-05-2024,1,2,45,340,2,3,Won,5,1,0.955333333
+309,Female,57,Lake Luisborough,Smart Light,30.34,16-05-2024,0,3,81,333,1,4,Lost,3,0,0
+310,Other,53,Amandaberg,Smart Plug,97.08,13-07-2024,0,5,59,275,1,0,Qualified,6,0,0.01
+311,Other,32,East Kevintown,Smart Light,475.3,21-11-2023,1,1,12,510,2,1,Demo,9,0,0
+312,Male,40,Port Sandra,Wearable,485.51,04-06-2024,1,2,31,314,2,2,Lead,2,0,0.034619048
+313,Female,52,North Amanda,Smart Speaker,151.32,25-07-2023,0,3,41,629,1,3,Negotiation,14,0,0.01
+314,Other,63,Cookville,Wearable,475.5,21-03-2025,0,3,28,24,3,4,Won,4,1,0.950833333
+315,Other,48,South Audreyville,Smart Speaker,441.97,15-01-2024,1,0,67,455,2,0,Lost,1,0,0.054690476
+316,Male,40,Pattersonfort,Smart Light,496.58,03-07-2023,1,0,70,651,2,1,Qualified,8,0,0
+317,Other,26,West Ashleyport,Wearable,201.67,16-06-2023,1,4,41,668,1,2,Demo,10,0,0
+318,Female,40,Andrewbury,Smart Plug,63.2,29-07-2024,0,4,42,259,1,3,Lead,4,0,0.191666667
+319,Other,44,Anthonyside,Wearable,298.99,04-02-2024,1,5,59,435,1,4,Negotiation,13,0,0
+320,Other,70,Lake Richardberg,Wearable,427,11-08-2024,1,3,5,246,3,0,Won,3,1,0.385392302
+321,Female,56,Buchananberg,Wearable,218.96,18-02-2024,1,3,9,421,3,1,Lost,2,0,0
+322,Other,22,Port Henrymouth,Security Camera,317.39,02-12-2023,0,4,73,499,1,2,Qualified,7,0,0
+323,Male,64,New Michaelfort,Wearable,362.97,15-06-2024,1,3,52,303,0,4,Lead,5,0,0.41528985
+324,Female,49,Davidburgh,Smart Thermostat,261.82,19-09-2024,1,0,68,207,0,0,Demo,11,0,0
+325,Other,26,North David,Security Camera,165.4,31-07-2023,1,4,76,623,1,3,Negotiation,15,0,0.01
+326,Male,23,Wrightstad,Smart Plug,498.72,15-12-2023,1,4,86,486,2,1,Won,4,1,0.316186508
+327,Male,49,Mcdanielville,Smart Light,39.6,19-02-2025,1,0,97,54,0,3,Lost,2,0,0
+328,Male,54,East Hollyhaven,Smart Light,484.5,17-05-2024,1,1,69,332,2,2,Qualified,6,0,0.549904762
+329,Female,21,South Patrick,Security Camera,99.42,13-06-2024,1,3,30,305,3,4,Demo,12,0,0
+330,Other,56,Alexandermouth,Security Camera,337.6,31-12-2024,1,1,13,104,3,0,Lead,3,0,0.385392302
+331,Male,31,South Davidbury,Smart Light,487.08,08-05-2023,1,5,79,707,2,1,Negotiation,9,0,0
+332,Male,38,Colemanside,Smart Plug,451.81,26-07-2023,1,4,11,628,2,2,Won,5,1,0.939285714
+333,Other,60,South Amber,Wearable,282.18,22-08-2023,1,0,12,601,2,3,Lost,1,0,0
+334,Female,60,South John,Smart Plug,176.36,08-02-2024,1,5,79,431,1,4,Qualified,10,0,0
+335,Male,38,Steventown,Security Camera,160.84,30-05-2024,1,3,67,319,1,0,Demo,7,0,0
+336,Other,60,Lake Jenniferton,Smart Speaker,319.54,02-09-2024,1,0,21,224,3,1,Lead,2,0,0
+337,Other,45,East Elizabethbury,Wearable,345.85,21-06-2024,1,1,19,297,3,2,Negotiation,13,0,0
+338,Other,44,Evansport,Smart Speaker,185.77,15-09-2024,0,4,37,211,3,3,Won,6,1,0.97
+339,Female,32,West Anthonyfort,Smart Light,308.94,21-11-2024,0,4,48,144,0,4,Lost,1,0,0
+340,Male,20,East Clayton,Smart Plug,374.57,26-06-2023,1,4,32,658,2,0,Qualified,8,0,0
+341,Female,24,South Elizabethtown,Smart Light,448.34,07-05-2023,0,1,23,708,2,1,Demo,9,0,0
+342,Female,25,New Davidmouth,Smart Light,221.73,03-12-2023,0,0,19,498,3,2,Lead,4,0,0.242848485
+343,Female,35,Port Michael,Smart Thermostat,97.98,21-01-2025,0,3,56,83,0,3,Negotiation,14,0,0
+344,Male,65,East Brenthaven,Security Camera,370.01,04-12-2024,0,4,66,131,0,4,Won,5,1,0.41528985
+345,Male,20,Delacruzville,Smart Thermostat,160.15,22-06-2024,0,1,18,296,3,0,Lost,3,0,0.385392302
+346,Other,55,Jeffburgh,Smart Thermostat,451.16,15-07-2023,0,2,38,639,2,1,Qualified,7,0,0
+347,Male,56,Williamsbury,Wearable,315.87,28-04-2023,0,4,40,717,2,2,Demo,11,0,0
+348,Female,34,South Sierra,Smart Speaker,130.1,25-07-2023,0,2,37,629,1,3,Lead,3,0,0.01
+349,Female,49,Cassandramouth,Smart Plug,390.16,22-03-2025,1,2,94,23,0,4,Negotiation,12,0,0
+350,Male,29,Ricardofurt,Smart Light,253.74,27-06-2024,0,4,25,291,3,0,Won,4,1,1
+351,Other,34,East Franciscochester,Smart Plug,91.26,13-06-2023,1,2,12,671,1,1,Lost,2,0,0
+352,Other,28,South Lisafurt,Smart Speaker,273.89,17-06-2024,1,4,53,301,0,2,Qualified,9,0,0
+353,Other,22,Port Melissamouth,Smart Thermostat,412.71,07-03-2024,1,4,100,403,0,4,Lead,1,0,0
+354,Male,65,Evanchester,Smart Plug,224.45,18-03-2025,0,5,25,27,3,0,Demo,10,0,0
+355,Other,23,West James,Smart Thermostat,280.81,18-06-2024,1,0,38,300,3,3,Negotiation,15,0,0
+356,Other,36,Port Shawnland,Security Camera,484.41,15-01-2024,0,0,83,455,2,1,Won,5,1,0.877579365
+357,Other,24,Port George,Smart Light,406.66,26-02-2024,0,0,14,413,2,3,Lost,1,0,0
+358,Female,70,South Josephhaven,Smart Speaker,178,12-01-2025,0,5,65,92,0,2,Qualified,8,0,0
+359,Male,52,Port Leahchester,Wearable,375.05,03-07-2024,0,3,57,285,0,4,Demo,7,0,0
+360,Male,31,Jamiefort,Smart Thermostat,130.7,07-04-2024,1,0,99,372,0,0,Lead,2,0,0.016666667
+361,Other,30,Martinezbury,Smart Thermostat,101.09,17-12-2023,1,1,20,484,3,1,Negotiation,14,0,0.02
+362,Male,69,Angelastad,Smart Thermostat,215.9,11-02-2025,1,0,31,62,3,2,Won,3,1,0.678904762
+363,Female,56,Thomasfort,Wearable,218.74,10-03-2025,1,2,73,35,0,3,Lost,2,0,0
+364,Other,67,Barnesside,Smart Thermostat,251.47,08-02-2024,1,4,20,431,3,4,Qualified,6,0,0.204166667
+365,Other,51,South Kevinborough,Smart Plug,68.92,29-07-2023,1,5,70,625,1,0,Demo,9,0,0
+366,Other,32,East Zacharyview,Smart Light,333.67,01-06-2024,0,1,37,317,3,1,Lead,4,0,0.797523088
+367,Other,43,Port Samuel,Smart Thermostat,474.72,16-08-2024,1,4,40,241,2,2,Negotiation,12,0,0
+368,Female,59,Copelandmouth,Smart Light,286.44,31-01-2025,0,2,11,73,3,3,Won,6,1,0.97
+369,Other,27,Ericside,Security Camera,387.71,26-01-2025,1,2,77,78,0,4,Lost,1,0,0
+370,Male,40,Matthewsville,Wearable,70.95,19-03-2025,0,2,58,26,3,0,Qualified,7,0,0
+371,Other,62,Port Jenniferborough,Smart Thermostat,118.3,17-10-2023,1,0,35,545,1,1,Demo,11,0,0
+372,Male,35,Woodbury,Security Camera,133.65,19-10-2023,0,0,84,543,1,2,Lead,3,0,0.098380952
+373,Female,30,Lake Aaronbury,Smart Thermostat,267.59,22-11-2024,0,2,18,143,3,3,Negotiation,10,0,0
+374,Male,31,Jamesland,Smart Thermostat,237.67,19-02-2024,1,3,58,420,1,4,Won,5,1,0.424868631
+375,Female,30,Ericksonborough,Smart Thermostat,33.66,30-06-2024,1,4,36,288,1,0,Lost,2,0,0.013166667
+376,Female,41,Brandyberg,Smart Plug,126.32,03-03-2025,0,3,55,42,0,1,Qualified,9,0,0
+377,Other,19,Franklinstad,Smart Thermostat,190.01,04-12-2023,1,1,96,497,1,2,Demo,13,0,0
+378,Other,33,North Emily,Wearable,473.49,20-02-2024,1,1,35,419,2,3,Lead,2,0,0
+379,Male,61,Samanthaside,Smart Plug,350.28,26-01-2025,1,0,8,78,3,4,Negotiation,12,0,0
+380,Female,47,Jeremyside,Smart Light,95.26,22-08-2023,0,2,71,601,1,0,Won,4,1,0.983636364
+381,Other,27,East Ronaldberg,Security Camera,490.76,10-06-2023,1,3,55,674,2,1,Lead,4,0,0.316186508
+382,Female,62,Lake Susanborough,Security Camera,171.99,15-10-2024,1,4,77,181,0,3,Qualified,7,0,0
+383,Other,35,North Erinburgh,Smart Thermostat,88.26,14-09-2024,0,1,63,212,3,2,Demo,10,0,0
+384,Female,63,Lake Kimberlyport,Smart Speaker,497.3,01-08-2023,1,1,84,622,2,4,Negotiation,9,0,0
+385,Other,62,Robertberg,Security Camera,260.26,16-01-2025,1,2,7,88,3,0,Won,3,1,0.385392302
+386,Male,59,New Aprilmouth,Security Camera,72.91,19-02-2024,1,5,65,420,1,1,Lost,2,0,0
+387,Other,69,Morganton,Wearable,88.68,30-05-2024,1,0,11,319,3,2,Qualified,6,0,0.0525
+388,Female,66,South Melissaside,Wearable,453.06,05-01-2025,0,2,99,99,0,4,Lead,5,0,0.41528985
+389,Other,47,Bakerstad,Smart Thermostat,454.54,05-02-2025,1,4,48,68,0,0,Demo,13,0,0
+390,Female,27,Greenshire,Smart Plug,302.24,27-07-2023,1,2,38,627,2,3,Negotiation,15,0,0
+391,Other,21,Matthewbury,Smart Light,194.03,03-09-2024,1,3,86,223,0,1,Won,4,1,0.61059127
+392,Other,63,Toniside,Wearable,105.77,09-08-2023,1,0,16,614,3,3,Lost,1,0,0
+393,Female,20,Mckeechester,Smart Plug,255.25,14-03-2024,0,0,0,396,3,2,Qualified,9,0,0
+394,Other,52,New Devonhaven,Smart Speaker,382.89,11-04-2024,1,2,24,368,2,4,Demo,7,0,0
+395,Female,64,Turnertown,Wearable,92.86,12-03-2024,1,1,66,398,1,0,Lead,3,0,0.225632395
+396,Female,61,Kimberlyfort,Smart Thermostat,30.06,18-01-2025,1,5,95,86,0,1,Negotiation,12,0,0
+397,Male,50,East Ginaton,Smart Light,293.3,31-05-2024,1,2,90,318,0,2,Won,6,1,0.714164141
+398,Male,54,Robinsonside,Smart Thermostat,182.41,29-10-2024,1,3,100,167,0,3,Lost,2,0,0
+399,Female,42,Sandersborough,Security Camera,147.06,25-08-2024,0,2,15,232,3,4,Qualified,10,0,0
+400,Male,29,Deannatown,Smart Speaker,249.82,13-06-2024,1,2,100,305,0,0,Demo,8,0,0
+401,Other,30,East Stephanie,Smart Light,438.78,20-01-2024,1,2,69,450,2,1,Lead,1,0,0
+402,Other,58,Montoyaton,Security Camera,317.83,22-04-2024,1,3,62,357,0,2,Negotiation,11,0,0
+403,Other,33,East Christopherchester,Smart Thermostat,417.67,11-07-2023,1,3,77,643,2,3,Won,5,1,0.955333333
+404,Other,24,Jenniferfurt,Smart Light,384.54,21-02-2024,1,2,90,418,0,4,Lost,3,0,0.13
+405,Female,32,New Ashleyville,Smart Thermostat,105.59,18-02-2024,1,2,74,421,1,0,Qualified,6,0,0.01
+406,Other,26,Davidfort,Wearable,455.23,29-01-2024,0,3,24,441,2,1,Demo,9,0,0
+407,Other,21,East Jason,Smart Plug,452.99,07-02-2024,0,5,92,432,0,2,Lead,2,0,0.01
+408,Female,18,Curtisville,Smart Thermostat,68.1,15-06-2023,0,0,57,669,1,3,Negotiation,14,0,0.01
+409,Female,60,Andrewburgh,Smart Thermostat,234.32,14-03-2024,1,0,23,396,3,4,Won,4,1,0.950833333
+410,Male,51,East Ryanstad,Smart Light,94.29,18-02-2025,1,1,4,55,3,0,Lost,1,0,0.004666667
+411,Male,53,Lake Patrick,Wearable,357.98,22-08-2024,1,1,66,235,0,1,Qualified,8,0,0
+412,Other,39,New Josephtown,Smart Light,418.21,05-08-2024,1,3,35,252,2,2,Demo,10,0,0
+413,Male,68,Lake Charles,Smart Thermostat,364.57,29-09-2023,1,2,19,563,2,3,Lead,4,0,0.052
+414,Other,36,North Monicachester,Smart Plug,286.13,31-01-2025,0,4,87,73,0,4,Negotiation,13,0,0
+415,Male,69,West Robertohaven,Wearable,456.22,17-09-2024,0,0,43,209,3,0,Won,3,1,0.385392302
+416,Other,41,New Vanessa,Smart Plug,76.88,22-02-2025,1,2,79,51,0,1,Lost,2,0,0
+417,Male,23,South Calvinbury,Security Camera,310.75,24-11-2024,1,0,9,141,3,2,Qualified,7,0,0
+418,Male,39,East Donaldhaven,Smart Speaker,447.73,05-07-2023,1,0,7,649,2,4,Lead,5,0,0.400418831
+419,Other,43,South Heatherside,Smart Thermostat,154.65,06-04-2025,1,5,94,8,0,0,Demo,11,0,0
+420,Male,23,New Alyssa,Smart Thermostat,236.83,12-06-2023,1,5,51,672,1,3,Negotiation,15,0,0.01
+421,Other,38,Port Regina,Smart Thermostat,452.64,30-08-2023,1,4,25,593,2,1,Won,4,1,0.316186508
+422,Male,21,Morrishaven,Smart Light,472.15,08-05-2024,1,0,36,341,2,3,Lost,2,0,0
+423,Female,23,New Chloechester,Smart Speaker,475.36,25-03-2025,1,2,91,20,0,2,Qualified,6,0,0.714164141
+424,Other,23,Harrismouth,Smart Plug,401.07,09-06-2023,1,1,58,675,2,4,Demo,12,0,0
+425,Female,30,New Christineview,Security Camera,216.64,02-11-2023,1,5,93,529,1,0,Lead,3,0,0.225632395
+426,Other,23,Port Calebview,Security Camera,340.79,23-10-2023,1,2,18,539,2,1,Negotiation,9,0,0
+427,Female,54,South Stevenshire,Wearable,463.04,18-07-2023,0,4,3,636,2,2,Won,5,1,0.939285714
+428,Female,37,Lake Clarencetown,Smart Speaker,265.72,12-02-2024,0,5,84,427,1,3,Lost,1,0,0
+429,Other,40,West Dylan,Smart Plug,118.24,02-03-2024,1,1,88,408,1,4,Qualified,10,0,0
+430,Male,28,Stacyhaven,Smart Plug,356.67,23-10-2024,0,2,54,173,0,0,Demo,7,0,0.02
+431,Other,36,Smithview,Smart Plug,364.67,08-08-2024,0,5,97,249,0,1,Lead,2,0,0
+432,Other,45,Lake Jasonburgh,Wearable,162.92,08-05-2023,0,3,7,707,1,2,Negotiation,13,0,0
+433,Female,31,Lake Paul,Smart Speaker,170.28,16-03-2025,1,0,45,29,3,3,Won,6,1,0.97
+434,Male,34,Port Davidchester,Wearable,211.46,02-11-2023,0,2,80,529,1,4,Lost,1,0,0
+435,Female,61,Lindseyberg,Smart Light,46.66,28-03-2025,1,4,46,17,3,0,Qualified,8,0,0
+436,Female,65,Port Michael,Security Camera,382.99,28-10-2023,1,4,4,534,2,1,Demo,9,0,0
+437,Female,59,New Donna,Smart Thermostat,61.02,11-06-2023,1,3,32,673,1,2,Lead,4,0,0.069761905
+438,Male,45,New Jeffreyside,Wearable,495.07,15-10-2023,0,2,36,547,2,3,Negotiation,14,0,0
+439,Male,20,Clarkfurt,Smart Light,200.73,20-08-2023,0,4,34,603,1,4,Won,5,1,0.424868631
+440,Male,56,Michelleside,Smart Plug,205.47,03-12-2024,0,4,24,132,3,0,Lost,3,0,0.385392302
+441,Female,67,Lake Shannonbury,Smart Speaker,34.14,19-07-2023,0,3,100,635,1,1,Qualified,7,0,0.06
+442,Other,20,West Chelsea,Security Camera,289.04,01-05-2023,1,4,4,714,2,2,Demo,11,0,0
+443,Female,33,Port Dawn,Security Camera,288.26,03-06-2024,0,5,56,315,0,3,Lead,3,0,0
+444,Female,67,South Dianahaven,Smart Thermostat,182.97,30-06-2024,0,1,66,288,0,4,Negotiation,12,0,0
+445,Male,37,North Jennifermouth,Smart Light,285.81,06-01-2025,1,1,19,98,3,0,Won,4,1,1
+446,Female,60,Williamsberg,Smart Speaker,156.44,14-01-2024,1,4,71,456,1,1,Lost,2,0,0
+447,Male,44,South Crystal,Smart Speaker,293.31,21-10-2024,0,0,81,175,0,2,Qualified,9,0,0
+448,Other,63,East Lisa,Smart Speaker,79.92,22-03-2024,0,5,7,388,1,4,Lead,1,0,0
+449,Other,36,Moorestad,Wearable,399.47,05-01-2025,0,5,53,99,0,0,Demo,10,0,0
+450,Female,69,Danielland,Wearable,147.22,16-04-2024,1,5,6,363,3,3,Negotiation,15,0,0
+451,Other,56,Watersstad,Wearable,298.23,04-02-2024,0,1,81,435,0,1,Won,5,1,0.797285714
+452,Other,48,South Jenniferstad,Smart Speaker,339.49,17-09-2023,1,4,63,575,2,3,Lost,1,0,0
+453,Female,32,New Patriciashire,Smart Thermostat,280.89,11-03-2025,0,0,35,34,3,2,Qualified,8,0,0
+454,Female,62,East Jasonshire,Smart Light,238.13,24-12-2023,0,4,61,477,1,4,Demo,7,0,0
+455,Male,45,Coopermouth,Smart Light,59.89,11-12-2023,0,2,47,490,1,0,Lead,2,0,0.013166667
+456,Male,47,East Russellbury,Smart Light,348.75,25-05-2024,0,0,15,324,3,1,Negotiation,14,0,0.02
+457,Male,67,Angelaberg,Security Camera,329.49,11-03-2025,1,0,37,34,3,2,Won,3,1,0.678904762
+458,Other,45,Port Fredericktown,Security Camera,182.79,11-04-2024,0,1,90,368,0,3,Lost,2,0,0
+459,Other,40,East Jennifer,Smart Light,377.12,22-12-2024,0,5,61,113,0,4,Qualified,6,0,0.233163287
+460,Other,65,Nealside,Smart Speaker,145.86,25-09-2023,0,5,55,567,1,0,Demo,9,0,0
+461,Other,43,Snowtown,Smart Light,323.09,06-09-2023,0,2,1,586,2,1,Lead,4,0,0.316186508
+462,Other,21,Watsontown,Smart Speaker,350.34,05-06-2024,0,0,33,313,3,2,Negotiation,12,0,0
+463,Male,29,East Laura,Security Camera,343.05,24-05-2023,1,2,83,691,2,3,Won,6,1,0.99
+464,Male,25,Elizabethfurt,Smart Plug,437.94,04-09-2024,1,1,73,222,0,4,Lost,1,0,0
+465,Other,18,West Christinabury,Smart Plug,384.06,28-01-2024,0,1,51,442,2,0,Qualified,7,0,0
+466,Male,31,Torresside,Smart Plug,271.51,31-08-2023,0,0,14,592,2,1,Demo,11,0,0
+467,Male,68,Taylormouth,Smart Thermostat,170.51,27-11-2024,0,1,48,138,3,2,Lead,3,0,0.678904762
+468,Male,46,West Stephanie,Security Camera,213.39,05-02-2025,1,0,39,68,3,3,Negotiation,10,0,0
+469,Female,29,Dawnstad,Security Camera,494.69,26-08-2023,0,4,36,597,2,4,Won,5,1,0.400418831
+470,Other,67,West Charleschester,Smart Plug,208.85,15-11-2024,0,0,53,150,3,0,Lost,2,0,0.004666667
+471,Male,62,Megantown,Security Camera,453.17,15-07-2023,1,1,35,639,2,1,Qualified,9,0,0
+472,Female,44,Smithborough,Smart Light,425.11,10-10-2024,1,2,94,186,0,2,Demo,13,0,0
+473,Other,65,Adamside,Smart Light,45.65,21-09-2023,1,1,60,571,1,3,Lead,2,0,0
+474,Female,54,Paulton,Smart Light,491.18,21-09-2023,0,1,86,571,2,4,Negotiation,12,0,0
+475,Male,53,Pattersonland,Smart Plug,424.91,30-03-2024,0,2,100,380,0,0,Won,4,1,0.974416667
+476,Other,57,Hendricksview,Smart Speaker,47.96,07-04-2025,0,4,56,7,0,1,Lead,4,0,0.61059127
+477,Male,70,Townsendville,Security Camera,384.28,15-09-2024,0,0,37,211,3,3,Qualified,7,0,0.04
+478,Male,25,Terryberg,Smart Plug,289.18,15-01-2024,1,4,51,455,1,2,Demo,10,0,0
+479,Other,29,Ponceburgh,Wearable,333.39,28-07-2024,1,0,18,260,3,4,Negotiation,9,0,0
+480,Female,56,South Anita,Smart Light,405.34,18-11-2024,0,0,64,147,0,0,Won,3,1,0.596174603
+481,Female,64,East Kathleenville,Smart Plug,477.93,18-01-2024,0,3,96,452,0,1,Lost,2,0,0
+482,Female,33,Lake Melissafort,Smart Thermostat,202.7,27-02-2024,1,5,94,412,1,2,Qualified,6,0,0
+483,Female,21,New Michael,Wearable,172.13,20-04-2024,0,2,100,359,0,4,Lead,5,0,0.41528985
+484,Male,41,West Lisamouth,Smart Thermostat,405.73,18-07-2023,0,4,78,636,2,0,Demo,13,0,0
+485,Female,47,Davisbury,Wearable,252.13,04-01-2024,0,5,35,466,1,3,Negotiation,15,0,0.01
+486,Female,23,East Timothy,Smart Plug,225.03,22-04-2023,0,2,44,723,1,1,Won,4,1,0.272496032
+487,Other,36,Reginamouth,Smart Plug,71.36,22-11-2023,0,4,59,509,1,3,Lost,1,0,0
+488,Other,18,East Kim,Wearable,186.14,27-03-2025,0,0,92,18,0,2,Qualified,9,0,0
+489,Male,41,Brownhaven,Wearable,400.58,11-02-2025,0,0,82,62,0,4,Demo,7,0,0
+490,Other,28,Lake Chrisport,Wearable,485.14,15-06-2023,0,2,11,669,2,0,Lead,3,0,0.407134921
+491,Female,39,South Vincentbury,Security Camera,101.22,24-06-2023,1,1,69,660,1,1,Negotiation,12,0,0
+492,Other,54,Normanside,Smart Thermostat,292.55,25-05-2023,0,1,70,690,2,2,Won,6,1,0.549904762
+493,Female,66,Danielleton,Smart Speaker,133.37,10-03-2024,0,0,17,400,3,3,Lost,2,0,0
+494,Male,42,East Deborahton,Smart Speaker,138.77,10-08-2024,1,2,38,247,3,4,Qualified,10,0,0
+495,Other,29,Donaldchester,Smart Speaker,353.9,27-10-2024,1,4,48,169,0,0,Demo,8,0,0
+496,Other,53,Reynoldstown,Wearable,121.03,04-02-2025,1,5,23,69,3,1,Lead,1,0,0
+497,Female,44,Petersmouth,Smart Plug,435.21,13-04-2025,1,4,14,1,3,2,Negotiation,11,0,0
+498,Other,25,North Nicolemouth,Wearable,114.18,09-08-2024,0,3,46,248,1,3,Won,5,1,0.83
+499,Female,38,Elizabethburgh,Security Camera,276.81,20-06-2023,1,4,1,664,2,4,Lost,3,0,0.01
+500,Other,45,East Charles,Smart Plug,330.27,12-10-2023,0,4,41,550,2,0,Qualified,6,0,0.051285714
